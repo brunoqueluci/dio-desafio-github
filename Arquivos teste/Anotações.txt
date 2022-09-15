@@ -1,0 +1,3 @@
+Arquivo para descriminar e anotações do desafio Git;
+
+Bruno Queluci
