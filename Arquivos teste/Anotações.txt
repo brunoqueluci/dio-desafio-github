@@ -1,3 +1,5 @@
 Arquivo para descriminar e anotações do desafio Git;
 
+Anotações executadas para uso do pull;
+
 Bruno Queluci
